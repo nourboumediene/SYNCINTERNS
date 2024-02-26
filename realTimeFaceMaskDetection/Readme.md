@@ -1,0 +1,1 @@
+this is the folder for the real time mask detection model
